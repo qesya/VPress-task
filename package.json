@@ -9,7 +9,6 @@
     "autoprefixer": "9.8.6",
     "file-saver": "^2.0.2",
     "jszip": "^3.5.0",
-    "jszip-utils": "^0.1.0",
     "node-sass": "^4.14.1",
     "postcss-cli": "^8.1.0",
     "react": "^17.0.0",
